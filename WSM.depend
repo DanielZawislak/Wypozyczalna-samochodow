@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1643546503 source:c:\users\danielpc\desktop\c++\wsm\main.cpp
+	"connect.h"
+	"query.h"
+	"functions.h"
+
+1642071906 c:\program files (x86)\dev-cpp\mingw64\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1642071913 c:\program files (x86)\dev-cpp\mingw64\include\mysql_com.h
+
+1642069821 c:\program files (x86)\dev-cpp\mingw64\include\mysql_time.h
+
+1642069821 c:\program files (x86)\dev-cpp\mingw64\include\mysql_version.h
+	<custom_conf.h>
+
+1642069821 c:\program files (x86)\dev-cpp\mingw64\include\typelib.h
+
+1642069821 c:\program files (x86)\dev-cpp\mingw64\include\my_list.h
+
+1642069821 c:\program files (x86)\dev-cpp\mingw64\include\my_alloc.h
+
+1643541175 c:\users\danielpc\desktop\c++\wsm\connect.h
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<stdio.h>
+	<ctime>
+	<cstdlib>
+	<fstream>
+	<conio.h>
+	<math.h>
+	<iomanip>
+
+1642876260 c:\users\danielpc\desktop\c++\wsm\query.h
+
+1643553613 c:\users\danielpc\desktop\c++\wsm\functions.h
+
